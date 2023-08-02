@@ -1,5 +1,7 @@
 name: eShopOnWeb Build and Test
 
+#Adding a note here to test
+
 #Triggers (uncomment line below to use it)
 on: [push, workflow_dispatch]
 
